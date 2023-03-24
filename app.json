@@ -3,8 +3,10 @@
   "environments": {
     "test": {
       "formation": {
-        "quantity": 1,
-        "size": "basic"
+        "test": {
+          "quantity": 1,
+          "size": "standard-1x"
+        }
       }
     }
   }
