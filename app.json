@@ -1,10 +1,11 @@
-"environments": {
+{
+  "name": "Demo App Test",
+  "environments": {
     "test": {
       "formation": {
-          "test": {
-            "quantity": 1,
-            "size": "standard-1x"
-          }
+        "quantity": 1,
+        "size": "basic"
       }
-   }
+    }
+  }
 }
